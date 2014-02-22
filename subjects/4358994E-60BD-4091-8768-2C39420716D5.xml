@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="4358994E-60BD-4091-8768-2C39420716D5" ownedBy="B4345F6A-F926-4062-144E-3FBC175CC7B6">
+  <arch:name>
+    <arch:string>Room 655</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Feature</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4_global_Palestine">
+        <oc:name>Palestinian Authority</oc:name>
+        <oc:id>4_global_Palestine</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/A9F45535-7A91-444A-06B6-D590F58C5079">
+        <oc:name>Tell en-Nasbeh</oc:name>
+        <oc:id>A9F45535-7A91-444A-06B6-D590F58C5079</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8E7CD04D-9342-468F-09C1-D207E06E74F2">
+        <oc:name>Square z17</oc:name>
+        <oc:id>8E7CD04D-9342-468F-09C1-D207E06E74F2</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/3CD3D511-C9C3-4F14-ACB6-0615A7DB9151">
+        <oc:name>B2010.1.79</oc:name>
+        <oc:id>3CD3D511-C9C3-4F14-ACB6-0615A7DB9151</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/59D9027F-20D2-43C9-35F3-7979ED2BB663">
+        <oc:name>B2011.1.84</oc:name>
+        <oc:id>59D9027F-20D2-43C9-35F3-7979ED2BB663</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Bade Museum: Room 655 (Feature)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-09-27</dc:date>
+    <dc:subject>1st Millennium</dc:subject>
+    <dc:subject>4th Millennium</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Babylonian</dc:subject>
+    <dc:subject>Biblical Archaeology</dc:subject>
+    <dc:subject>Byzantine</dc:subject>
+    <dc:subject>Early Bronze</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Israel</dc:subject>
+    <dc:subject>Judah</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Palestine</dc:subject>
+    <dc:subject>Persian</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Southern Levant</dc:subject>
+    <dc:subject>Tomb</dc:subject>
+    <dc:subject>Town</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/21A750F6-7D23-4663-11BA-F35307B6300F">Aaron Brody</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/4358994E-60BD-4091-8768-2C39420716D5</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/B4345F6A-F926-4062-144E-3FBC175CC7B6">Bade Museum</oc:project_name>
+    <oc:pub_date>2013-09-27T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Bade+Museum%3A+Room+655+%28Feature%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=1st+Millennium&amp;rft.subject=4th+Millennium&amp;rft.subject=Archaeology&amp;rft.subject=Babylonian&amp;rft.subject=Biblical+Archaeology&amp;rft.subject=Byzantine&amp;rft.subject=Early+Bronze&amp;rft.subject=Hellenistic&amp;rft.subject=Iron+Age&amp;rft.subject=Israel&amp;rft.subject=Judah&amp;rft.subject=Near+East&amp;rft.subject=Palestine&amp;rft.subject=Persian&amp;rft.subject=Roman&amp;rft.subject=Southern+Levant&amp;rft.subject=Tomb&amp;rft.subject=Town&amp;rft.creator=Aaron+Brody&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F4358994E-60BD-4091-8768-2C39420716D5</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>31.885012184583</oc:geo_lat>
+      <oc:geo_long>35.216886089459</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/A9F45535-7A91-444A-06B6-D590F58C5079">
+        <oc:source_name>Tell en-Nasbeh</oc:source_name>
+        <oc:source_id>A9F45535-7A91-444A-06B6-D590F58C5079</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-02-22T02:05:30-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/02/22 02:05:30</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

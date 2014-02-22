@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="823A5C6E-BE7C-4B8F-DAEE-20780EBC12FE" ownedBy="B4345F6A-F926-4062-144E-3FBC175CC7B6">
+  <arch:name>
+    <arch:string>B2011.1.170</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Small Find</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_19_7b60bb7f3</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>3ADF653B-C61A-4A73-5126-9AC8B1903048</arch:variableID>
+          <arch:valueID>22B41872-8B0C-4465-AC1B-61839F01F76A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4FE8A107-A34E-4F2A-C2AC-16540ADEAEC5">4FE8A107-A34E-4F2A-C2AC-16540ADEAEC5</oc:propid>
+          <oc:var_label type="nominal">Catalog</oc:var_label>
+          <oc:show_val>Object</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E9FC77D3-527A-4172-61A7-B8528324CF23</arch:variableID>
+          <arch:valueID>AF5A60E5-FE51-4CF4-49FC-36FDC0D71499</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/267AEC39-3D73-4561-EBAE-38187E4426F0">267AEC39-3D73-4561-EBAE-38187E4426F0</oc:propid>
+          <oc:var_label type="calendric">Catalog Date</oc:var_label>
+          <oc:show_val>2011-11-28</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D1ACCB01-E0CC-49BC-2BC1-B9EA0E2BB8A9</arch:variableID>
+          <arch:valueID>869C3FDC-0C66-4794-4983-F1E6F6B0D1B6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1694EFA3-CC11-4BCD-9537-3D8C9761527B">1694EFA3-CC11-4BCD-9537-3D8C9761527B</oc:propid>
+          <oc:var_label type="nominal">Catalog Type</oc:var_label>
+          <oc:show_val>Archaeology</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6A452906-BC83-45DF-D201-FCBDA1D06A23</arch:variableID>
+          <arch:valueID>A2EF42CC-37D9-439D-DE45-66A38DB686BA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/56E94520-5BF0-427A-4250-CA454AE79E63">56E94520-5BF0-427A-4250-CA454AE79E63</oc:propid>
+          <oc:var_label type="nominal">Collection</oc:var_label>
+          <oc:show_val>Tell en-Nasbeh Collection</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AAFD2807-3B74-4171-D71D-09B0A56B8408</arch:variableID>
+          <arch:valueID>DF9A7780-948D-4C52-3BF3-97E429417499</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D4784EC8-7BBB-47B2-44C1-6F15026FE257">D4784EC8-7BBB-47B2-44C1-6F15026FE257</oc:propid>
+          <oc:var_label type="nominal">Conservation Condition</oc:var_label>
+          <oc:show_val>Poor</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>11670E2A-8B98-453E-8A3F-17D9B098D450</arch:variableID>
+          <arch:valueID>DFB4B87D-2442-42A3-43A0-1159AA8EA06C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/09170CDF-A665-4768-5AF9-D6EE8B021A30">09170CDF-A665-4768-5AF9-D6EE8B021A30</oc:propid>
+          <oc:var_label type="alphanumeric">Conservation Notes</oc:var_label>
+          <oc:show_val>Badly corroded, but complete (mended) object.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35D49E6C-6AC8-456C-E483-CD2C3CF24B5D</arch:variableID>
+          <arch:valueID>977989DE-D217-45AF-31B3-E44050A3842E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9EDA94D0-0B12-4100-A1F0-FCB4C04F997D">9EDA94D0-0B12-4100-A1F0-FCB4C04F997D</oc:propid>
+          <oc:var_label type="nominal">Cultural Period</oc:var_label>
+          <oc:show_val>Iron IIC</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B990D2B1-86B3-45BF-9577-1D7722EA529E</arch:variableID>
+          <arch:decimal>0.9</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/66C84CE7-B27B-40DF-5F84-C7BACBAAA484">66C84CE7-B27B-40DF-5F84-C7BACBAAA484</oc:propid>
+          <oc:var_label type="decimal">Depth (cm)</oc:var_label>
+          <oc:show_val>0.9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4302EEEE-200B-4716-FC6E-30195564C0B3</arch:variableID>
+          <arch:valueID>8F3441EC-E839-447F-A82E-60CA3877B2BE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/066F4E54-7D8E-43E8-3BDF-1361EF13E589">066F4E54-7D8E-43E8-3BDF-1361EF13E589</oc:propid>
+          <oc:var_label type="alphanumeric">General Description</oc:var_label>
+          <oc:show_val>Badly corroded iron sickle. The piece was broken at some point, but glued back together, causing a distortion of the shape in the middle of the object.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E2AE5D3B-753E-4043-EF7E-53DAC855B8AB</arch:variableID>
+          <arch:decimal>0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C0BB51E8-03AC-4AA5-21EC-CB631A717300">C0BB51E8-03AC-4AA5-21EC-CB631A717300</oc:propid>
+          <oc:var_label type="decimal">Diameter (cm)</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2B19AD71-B7CC-43C5-E53F-B3CC6B38AE09</arch:variableID>
+          <arch:integer>700</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/113F3F83-B70B-4310-DAD0-D79DE5000996">113F3F83-B70B-4310-DAD0-D79DE5000996</oc:propid>
+          <oc:var_label type="integer">Early Date (BCE)</oc:var_label>
+          <oc:show_val>700</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7AFEEC27-3D16-4633-F806-C1F4D9479418</arch:variableID>
+          <arch:valueID>CA4F58D8-878D-4EC4-667F-3362D19AE0C0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CE002B2A-F683-4AA5-09B0-CBAAE763EC02">CE002B2A-F683-4AA5-09B0-CBAAE763EC02</oc:propid>
+          <oc:var_label type="calendric">Excavation Date</oc:var_label>
+          <oc:show_val>1935-06-05</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>897B1EFA-CD2C-4BFD-E10D-7FBCF1945F93</arch:variableID>
+          <arch:valueID>39FB162C-B88A-4012-4FDA-AE99B4385475</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B65BD400-3334-470E-06C2-54AD19CE0F00">B65BD400-3334-470E-06C2-54AD19CE0F00</oc:propid>
+          <oc:var_label type="nominal">Category Type</oc:var_label>
+          <oc:show_val>Metal</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DFF91E6C-0D81-4989-90B8-8E69415118E3</arch:variableID>
+          <arch:decimal>0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/1440C912-B0A5-4F25-33EF-B7BB9DD46E5D">1440C912-B0A5-4F25-33EF-B7BB9DD46E5D</oc:propid>
+          <oc:var_label type="decimal">Height (cm)</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4C817566-944C-4330-FBE7-4D42A7F97361</arch:variableID>
+          <arch:valueID>325F444A-3590-44EC-E43B-91D29F69CE89</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2874C90C-7D71-4421-3A93-DC91E3514432">2874C90C-7D71-4421-3A93-DC91E3514432</oc:propid>
+          <oc:var_label type="nominal">Primary Location</oc:var_label>
+          <oc:show_val>Holbrook Hall, Pacific School of Religion</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E56BF970-3278-4C4B-4208-C588050B8B60</arch:variableID>
+          <arch:integer/>
+          <oc:propid href="http://opencontext.org/properties/6AA84212-114A-4BFF-E8D1-A580AB48B933">6AA84212-114A-4BFF-E8D1-A580AB48B933</oc:propid>
+          <oc:var_label type="integer">Late Date (BCE)</oc:var_label>
+          <oc:show_val>586</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C7A36D7C-86BC-40BE-B110-A7D7C0E15E7B</arch:variableID>
+          <arch:decimal>16.4</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E4EBCAF8-4DE4-4641-CFAC-51371C055B01">E4EBCAF8-4DE4-4641-CFAC-51371C055B01</oc:propid>
+          <oc:var_label type="decimal">Length (cm)</oc:var_label>
+          <oc:show_val>16.4</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>01AE0BD1-A277-4A03-D9FD-390540239F4D</arch:variableID>
+          <arch:valueID>2C0F0A8D-4002-4B03-4872-20479165B0B1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F8E02E28-50EE-4744-CDFC-1ABB41FBAD21">F8E02E28-50EE-4744-CDFC-1ABB41FBAD21</oc:propid>
+          <oc:var_label type="nominal">Occupation Level</oc:var_label>
+          <oc:show_val>I</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8F38E880-82DD-4DE4-528A-DBAB19A09837</arch:variableID>
+          <arch:valueID>EC98E50A-3943-439C-044E-E45720FCBAF9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/31BA9791-F08E-4605-F52C-DBCDBE479ADD">31BA9791-F08E-4605-F52C-DBCDBE479ADD</oc:propid>
+          <oc:var_label type="nominal">Material</oc:var_label>
+          <oc:show_val>Iron</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="8F38E880-82DD-4DE4-528A-DBAB19A09837" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P45F.consists_of">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Consists of</oc:label>
+              <oc:targetLink localType="property" localID="31BA9791-F08E-4605-F52C-DBCDBE479ADD" localURI="http://opencontext.org/properties/31BA9791-F08E-4605-F52C-DBCDBE479ADD" href="http://collection.britishmuseum.org/id/thesauri/x11019">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>iron</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>280671D3-DA97-41A9-F4D4-228F10505697</arch:variableID>
+          <arch:valueID>6F7249C9-D3C4-4813-1B0C-D00BA429BA08</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/82704DE4-460E-43E4-C532-46D50931D60F">82704DE4-460E-43E4-C532-46D50931D60F</oc:propid>
+          <oc:var_label type="nominal">Object Name</oc:var_label>
+          <oc:show_val>Sickle</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="280671D3-DA97-41A9-F4D4-228F10505697" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="82704DE4-460E-43E4-C532-46D50931D60F" localURI="http://opencontext.org/properties/82704DE4-460E-43E4-C532-46D50931D60F" href="http://collection.britishmuseum.org/id/thesauri/x9070">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>sickle</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F42ED4CA-B66F-4B73-E31F-F4EB39AFF2BD</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/46BC6260-3C9C-48DC-BBBD-57089DFDFA7E">46BC6260-3C9C-48DC-BBBD-57089DFDFA7E</oc:propid>
+          <oc:var_label type="alphanumeric">Old Museum ID</oc:var_label>
+          <oc:show_val>2841</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CBFB341D-C469-4E0D-CCF1-C433E24955A2</arch:variableID>
+          <arch:valueID>12A4FC28-BE84-4920-2E25-5F2419F5FD38</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/22C63F12-B7F0-4779-7F81-AF61BF0B9E05">22C63F12-B7F0-4779-7F81-AF61BF0B9E05</oc:propid>
+          <oc:var_label type="alphanumeric">Exc. Object ID</oc:var_label>
+          <oc:show_val>x46</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>534F2B76-67A8-47A8-5B12-333965F3BFD3</arch:variableID>
+          <arch:valueID>473B461B-FDCA-4F30-2B3A-776F4E4D1252</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B8EAD4C8-E3B9-4BDB-6A8F-E9D3F22A367B">B8EAD4C8-E3B9-4BDB-6A8F-E9D3F22A367B</oc:propid>
+          <oc:var_label type="nominal">Object Sub-category</oc:var_label>
+          <oc:show_val>Metal -- Tool</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FE35E7D6-36DA-44AA-B855-65C2128AA032</arch:variableID>
+          <arch:valueID>00041FF5-C61E-4856-3BBF-3F557371DE94</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/336D0096-355C-4898-A6C3-C75541706387">336D0096-355C-4898-A6C3-C75541706387</oc:propid>
+          <oc:var_label type="alphanumeric">Provenance</oc:var_label>
+          <oc:show_val>The object was found in a storage area inside of Room 625, sometimes referred to as 625(a).</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>15EF029E-E8DA-409A-F684-1D0F0AAA1EEB</arch:variableID>
+          <arch:valueID>F85F1F3B-8509-4F0B-A46F-97D9E161B155</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/756475FC-B4B2-4D57-DA10-816C23133119">756475FC-B4B2-4D57-DA10-816C23133119</oc:propid>
+          <oc:var_label type="alphanumeric">Publication Notes</oc:var_label>
+          <oc:show_val>McCown, C. C. 1947. Tell en-Nasbeh, Vol. I: Archaeological and Historical Results. Berkeley and New Haven: The Palestine Institute of Pacific School of Religion and the American Schools of Oriental Research. Wampler, J. C. 1947. Tell en-Nasbeh, Vol. II: The Pottery. Berkeley and New Haven: The Palestine Institute of Pacific School of Religion and the American Schools of Oriental Research.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4B3F5D7D-BF81-41EB-3607-D3F03C1A3C07</arch:variableID>
+          <arch:valueID>EF5FDFDB-9CD9-48E1-DB3F-57023AADBFFC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2AB005A8-7384-42F8-7921-6A87ACC5EDF4">2AB005A8-7384-42F8-7921-6A87ACC5EDF4</oc:propid>
+          <oc:var_label type="nominal">Decoration</oc:var_label>
+          <oc:show_val>None</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>205F0168-6FB0-4A24-28FD-76A6FFC1043F</arch:variableID>
+          <arch:integer>0</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/4882058F-D21C-49CC-8D2B-0F9B7306E694">4882058F-D21C-49CC-8D2B-0F9B7306E694</oc:propid>
+          <oc:var_label type="integer">Excav. Ceramic Serial #</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AE7D1E21-E105-480C-A645-18E3A0FB7678</arch:variableID>
+          <arch:valueID>38AE9450-E25C-4761-2D32-E8AA1256C627</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A85EE6D6-B71F-4A11-7B35-E3BA2775D8CC">A85EE6D6-B71F-4A11-7B35-E3BA2775D8CC</oc:propid>
+          <oc:var_label type="nominal">Completeness</oc:var_label>
+          <oc:show_val>Whole</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FC7881A8-703F-4389-D217-8CB88E4C3A76</arch:variableID>
+          <arch:decimal>68.2</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E46E3D1B-964B-4D88-9AB2-F9B370B987AC">E46E3D1B-964B-4D88-9AB2-F9B370B987AC</oc:propid>
+          <oc:var_label type="decimal">Weight (g)</oc:var_label>
+          <oc:show_val>68.2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CBC70502-B01E-48D2-53B9-310C182074EA</arch:variableID>
+          <arch:decimal>3.7</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9FF836A6-7B86-43D7-1412-DF5A341473C8">9FF836A6-7B86-43D7-1412-DF5A341473C8</oc:propid>
+          <oc:var_label type="decimal">Width (cm)</oc:var_label>
+          <oc:show_val>3.7</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F909AD6A-50BA-4167-B97B-81E88EECE3BD</arch:variableID>
+          <arch:valueID>7B7B395B-CA92-4778-D26E-AA92F9CCBB2B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1023DD1C-F311-4276-2C04-266FF91374A6">1023DD1C-F311-4276-2C04-266FF91374A6</oc:propid>
+          <oc:var_label type="nominal">Provenience Certainty</oc:var_label>
+          <oc:show_val>Site certain</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>80A04A9C-0899-4994-E3AF-CDE5AF3FDAF1</arch:variableID>
+          <arch:valueID>C85035D8-564F-4816-0FDB-04535531A1C4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/68CBFF77-D37A-467D-CE83-FBF910233A40">68CBFF77-D37A-467D-CE83-FBF910233A40</oc:propid>
+          <oc:var_label type="nominal">Catalogued by</oc:var_label>
+          <oc:show_val>Stephanie Brown</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>48711E25-1ED6-4F37-46EF-715F0A5334C2</arch:variableID>
+          <arch:valueID>C85035D8-564F-4816-0FDB-04535531A1C4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BA8F84C8-8C58-4049-626E-636051B2C799">BA8F84C8-8C58-4049-626E-636051B2C799</oc:propid>
+          <oc:var_label type="nominal">Condition Examined by</oc:var_label>
+          <oc:show_val>Stephanie Brown</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0A36EA0F-3081-469A-6BCF-3CF9E980C3A3</arch:variableID>
+          <arch:valueID>BF4C7C84-B94E-4670-F3D6-5AC065655C6E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D3B11134-3776-4E93-DEFA-2FA3EB037554">D3B11134-3776-4E93-DEFA-2FA3EB037554</oc:propid>
+          <oc:var_label type="nominal">Container</oc:var_label>
+          <oc:show_val>Box 11</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A99CDF22-AF4C-4A6A-E15D-E393200C4B89</arch:variableID>
+          <arch:valueID>5321DE28-ED74-4A4D-364D-2A31063FE09B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4CADA7A9-C1A9-492C-6A92-3B9E10131F57">4CADA7A9-C1A9-492C-6A92-3B9E10131F57</oc:propid>
+          <oc:var_label type="nominal">Site</oc:var_label>
+          <oc:show_val>Tell en-Nasbeh</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4_global_Palestine">
+        <oc:name>Palestinian Authority</oc:name>
+        <oc:id>4_global_Palestine</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/A9F45535-7A91-444A-06B6-D590F58C5079">
+        <oc:name>Tell en-Nasbeh</oc:name>
+        <oc:id>A9F45535-7A91-444A-06B6-D590F58C5079</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/2E73DA45-38CA-4813-B3BD-2E0265B4D82D">
+        <oc:name>Square AB17</oc:name>
+        <oc:id>2E73DA45-38CA-4813-B3BD-2E0265B4D82D</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/60724B07-2B5A-42EE-088D-489F4EB64E35">
+        <oc:name>Room 625</oc:name>
+        <oc:id>60724B07-2B5A-42EE-088D-489F4EB64E35</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Bade Museum: B2011.1.170 (Small Find)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-09-27</dc:date>
+    <dc:subject>1st Millennium</dc:subject>
+    <dc:subject>4th Millennium</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Babylonian</dc:subject>
+    <dc:subject>Biblical Archaeology</dc:subject>
+    <dc:subject>Byzantine</dc:subject>
+    <dc:subject>Early Bronze</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Israel</dc:subject>
+    <dc:subject>Judah</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Palestine</dc:subject>
+    <dc:subject>Persian</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Southern Levant</dc:subject>
+    <dc:subject>Tomb</dc:subject>
+    <dc:subject>Town</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/21A750F6-7D23-4663-11BA-F35307B6300F">Aaron Brody</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/823A5C6E-BE7C-4B8F-DAEE-20780EBC12FE</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/B4345F6A-F926-4062-144E-3FBC175CC7B6">Bade Museum</oc:project_name>
+    <oc:pub_date>2013-09-27T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Bade+Museum%3A+B2011.1.170+%28Small+Find%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=1st+Millennium&amp;rft.subject=4th+Millennium&amp;rft.subject=Archaeology&amp;rft.subject=Babylonian&amp;rft.subject=Biblical+Archaeology&amp;rft.subject=Byzantine&amp;rft.subject=Early+Bronze&amp;rft.subject=Hellenistic&amp;rft.subject=Iron+Age&amp;rft.subject=Israel&amp;rft.subject=Judah&amp;rft.subject=Near+East&amp;rft.subject=Palestine&amp;rft.subject=Persian&amp;rft.subject=Roman&amp;rft.subject=Southern+Levant&amp;rft.subject=Tomb&amp;rft.subject=Town&amp;rft.creator=Aaron+Brody&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F823A5C6E-BE7C-4B8F-DAEE-20780EBC12FE</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>31.885012184583</oc:geo_lat>
+      <oc:geo_long>35.216886089459</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/A9F45535-7A91-444A-06B6-D590F58C5079">
+        <oc:source_name>Tell en-Nasbeh</oc:source_name>
+        <oc:source_id>A9F45535-7A91-444A-06B6-D590F58C5079</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-02-22T02:08:43-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/02/22 02:08:43</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
