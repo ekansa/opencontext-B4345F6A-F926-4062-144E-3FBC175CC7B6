@@ -232,14 +232,18 @@
           <arch:variableID>8F16CD33-84E6-4A7B-927D-A4596C23721E</arch:variableID>
           <arch:valueID>B7C34BA7-A486-467A-6109-359B0313E4B1</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/FB6A1A67-AECF-4F19-6B6E-BE14D37E5D15">FB6A1A67-AECF-4F19-6B6E-BE14D37E5D15</oc:propid>
-          <oc:var_label type="nominal">CDLI Link</oc:var_label>
-          <oc:show_val>http://cdli.ucla.edu/search/archival_view.php?ObjectID=P405498</oc:show_val>
+          <oc:var_label type="alphanumeric">CDLI Link</oc:var_label>
+          <oc:show_val type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <a href="http://cdli.ucla.edu/search/archival_view.php?ObjectID=P405498">http://cdli.ucla.edu/search/archival_view.php?ObjectID=P405498</a>
+            </div>
+          </oc:show_val>
         </arch:property>
         <arch:property>
           <arch:variableID>027726AE-CCA4-419C-8EC7-5B1F359CE43D</arch:variableID>
           <arch:valueID>78B5C895-C87B-432D-974E-5D5C8B1F6934</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/70407760-ACEE-4B25-B163-D8D29B65D740">70407760-ACEE-4B25-B163-D8D29B65D740</oc:propid>
-          <oc:var_label type="nominal">CDLI Ark Identifier</oc:var_label>
+          <oc:var_label type="alphanumeric">CDLI Ark Identifier</oc:var_label>
           <oc:show_val>21198/zz0021bxsx</oc:show_val>
         </arch:property>
         <arch:property>
@@ -373,10 +377,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2014-02-22T01:48:03-07:00</oc:last_updated>
+    <oc:last_updated>2014-02-22T19:05:18-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2014/02/22 01:48:03</oc:view_time>
+      <oc:view_time>2014/02/22 19:05:18</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">

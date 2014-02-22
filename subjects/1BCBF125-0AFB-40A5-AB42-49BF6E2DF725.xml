@@ -239,14 +239,18 @@
           <arch:variableID>8F16CD33-84E6-4A7B-927D-A4596C23721E</arch:variableID>
           <arch:valueID>C6BF4D65-2806-4908-F475-531DCEBD4DB9</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/5ED8E66A-6754-4E30-9F8F-C933A0D804A3">5ED8E66A-6754-4E30-9F8F-C933A0D804A3</oc:propid>
-          <oc:var_label type="nominal">CDLI Link</oc:var_label>
-          <oc:show_val>http://cdli.ucla.edu/search/archival_view.php?ObjectID=P405492</oc:show_val>
+          <oc:var_label type="alphanumeric">CDLI Link</oc:var_label>
+          <oc:show_val type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <a href="http://cdli.ucla.edu/search/archival_view.php?ObjectID=P405492">http://cdli.ucla.edu/search/archival_view.php?ObjectID=P405492</a>
+            </div>
+          </oc:show_val>
         </arch:property>
         <arch:property>
           <arch:variableID>027726AE-CCA4-419C-8EC7-5B1F359CE43D</arch:variableID>
           <arch:valueID>6C910A66-F762-4CEC-A953-6410D3D19F14</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/9DD845EE-6B7A-4118-D7D4-1AC8C0D8BE66">9DD845EE-6B7A-4118-D7D4-1AC8C0D8BE66</oc:propid>
-          <oc:var_label type="nominal">CDLI Ark Identifier</oc:var_label>
+          <oc:var_label type="alphanumeric">CDLI Ark Identifier</oc:var_label>
           <oc:show_val>21198/zz0021bxkt</oc:show_val>
         </arch:property>
         <arch:property>
@@ -299,7 +303,7 @@
             <oc:name>b2010161-large</oc:name>
             <oc:id>0B60C849-30D8-4CB1-1A74-B7E1D51FDAC2</oc:id>
             <oc:relation>link</oc:relation>
-            <oc:type/>
+            <oc:type>image</oc:type>
             <oc:thumbnailURI>http://artiraq.org/static/opencontext/psr-bade/thumbs/b2010161-large.jpg</oc:thumbnailURI>
           </oc:link>
         </oc:media_links>
@@ -380,10 +384,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2014-02-22T02:13:56-07:00</oc:last_updated>
+    <oc:last_updated>2014-02-22T19:03:29-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2014/02/22 02:13:56</oc:view_time>
+      <oc:view_time>2014/02/22 19:03:29</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">
